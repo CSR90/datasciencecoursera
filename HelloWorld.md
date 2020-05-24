@@ -1,7 +1,7 @@
 ---
 title: "HelloWorld"
 output:
-  word_document: default
+  word_document: text file
   html_document: default
 ---
 
